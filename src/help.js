@@ -1,16 +1,16 @@
 const help = (pushname, prefix, time) => {
-	return `  ●-▬▬▬ஜ۩۞۩ஜ▬▬▬▬-●
+	return `  ●-▬▬▬HINATA >_<▬▬▬▬-●
 
 
 ────── ❮ *I N F O* ❯ ──────
 ╭──────────────────╮
-│➢ *Nama* : ${pushname}
+│➢ *Name* : ${pushname}
 │➢ *Lib* : BAILYES
-│➢ *Waktu* : ${time}
+│➢ *Time* : ${time}
 ╰──────────────────╯
 
 ▬▭▬▭▬▭▬▭▬▭▬▭▬▭
-        *WHATSAPP BOT*
+        *HINATA V2 BOT*
 ▬▭▬▭▬▭▬▭▬▭▬▭▬▭
 
 ╔════════════════════
@@ -37,10 +37,11 @@ const help = (pushname, prefix, time) => {
 ╠◪ *${prefix}runtime*
 ╠◪ *${prefix}offcgroup*
 ╠◪ *${prefix}bug Masalah*
+╠◪  *means bug report*
 ╠◪ *${prefix}blocklist*
 ╠◪ *${prefix}wait*
 ╠════════════════════
-║          *AGAMA MENU*
+║          *RELIGION MENU*
 ╠════════════════════
 ╠◪ *${prefix}quran*
 ╠◪ *${prefix}quran1*
@@ -82,8 +83,9 @@ const help = (pushname, prefix, time) => {
 ╠◪ *${prefix}quotemaker*
 ╠◪ *${prefix}resepmasakan*
 ╠◪ *${prefix}nulis text*
+╠◪ *nulis means write*
 ╠◪ *${prefix}nulis2 text*
-╠◪ *${prefix}nulis3 nama|kls|text*
+╠◪ *${prefix}nulis3 name|class|text*
 ╠════════════════════
 ║         *STORAGE MENU*
 ╠════════════════════
@@ -94,6 +96,7 @@ const help = (pushname, prefix, time) => {
 ╠◪ *${prefix}tupai*
 ╠◪ *${prefix}ghost*
 ╠◪ *${prefix}gemuk*
+╠◪ *gemuk =fat*
 ╠◪ *${prefix}fasttesf*
 ╠◪ *${prefix}slowmo*
 ╠◪ *${prefix}slowmo1*
@@ -109,12 +112,14 @@ const help = (pushname, prefix, time) => {
 ╠◪ *${prefix}lirik*
 ╠◪ *${prefix}chord*
 ╠◪ *${prefix}cerpen*
+╠◪ *cerpen = short story*
 ╠◪ *${prefix}cersex*
 ╠◪ *${prefix}brainly*
 ╠◪ *${prefix}quotes*
 ╠◪ *${prefix}bpfont*
 ╠◪ *${prefix}pantun*
 ╠◪ *${prefix}artijodoh*
+╠◪ *artijodoh = the meaning of mate*
 ╠◪ *${prefix}urlshort*
 ╠◪ *${prefix}qrcode*
 ╠◪ *${prefix}barcode*
@@ -182,6 +187,7 @@ const help = (pushname, prefix, time) => {
 ╠◪ *${prefix}slot*
 ╠◪ *${prefix}slot1*
 ╠◪ *${prefix}koin*
+╠◪  *koin = coin*
 ╠◪ *${prefix}truth*
 ╠◪ *${prefix}dare*
 ╠◪ *${prefix}fitnah*
@@ -189,6 +195,7 @@ const help = (pushname, prefix, time) => {
 ╠◪ *${prefix}wa.me*
 ╠◪ *${prefix}readmore*
 ╠◪ *${prefix}tebakgambar*
+╠◪ *tebakgambar = guess the picture*
 ╠════════════════════
 ║           *GROUP MENU*
 ╠════════════════════
@@ -225,7 +232,7 @@ const help = (pushname, prefix, time) => {
 ╠◪ *${prefix}setleave*
 ╠◪ *${prefix}setwelcome*
 ╠════════════════════
-║ *CREATOR FDL & RR•018*
+║ *CREATOR Naruto x Reapers*
 ╚════════════════════`
 }
 
