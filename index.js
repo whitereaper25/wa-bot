@@ -1419,7 +1419,7 @@ async function starts() {
 						client.groupAdd(from, [num])
 					} catch (e) {
 						console.log('Error :', e)
-						reply('Failed to add target, maybe because it's private')
+						reply('Failed to add target, maybe because its private')
 					}
 					break
 				case 'kick':
